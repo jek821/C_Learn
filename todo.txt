@@ -1,10 +1,10 @@
+Create Single and Double Linked Lists
+Convert the chained node removal to a linked list function not a node function. 
+Create HasData function for LinkedLists (return true or false)
+Create ToArray function for Linked Lists
 Create iterative freeNode solution
 Create single node removal function
 Create DNode (double node)
-Create Single and Double Linked Lists
-Create HasData function for LinkedLists (return true or false)
-Create ToArray function for Linked Lists
-Convert the chained node removal to a linked list function not a node function. 
 Maybe circular linked lists?
 
 Then on to Stacks and Queues, Trees, Hashes and Graphs!...
